@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2017\Projects\test setup\test setup\bin\Debug\test setup.exe.config
+c:\users\user\documents\visual studio 2017\Projects\test setup\test setup\bin\Debug\test setup.exe
+c:\users\user\documents\visual studio 2017\Projects\test setup\test setup\bin\Debug\test setup.pdb
+c:\users\user\documents\visual studio 2017\Projects\test setup\test setup\obj\Debug\test_setup.Form1.resources
+c:\users\user\documents\visual studio 2017\Projects\test setup\test setup\obj\Debug\test_setup.Properties.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\test setup\test setup\obj\Debug\test setup.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\test setup\test setup\obj\Debug\test setup.exe
+c:\users\user\documents\visual studio 2017\Projects\test setup\test setup\obj\Debug\test setup.pdb
